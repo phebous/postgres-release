@@ -1,0 +1,8 @@
+---
+name: postgres-12.4
+
+dependencies: []
+
+files:
+  - postgres/postgresql-12.4.tar.gz  
+

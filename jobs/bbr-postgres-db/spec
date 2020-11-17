@@ -16,6 +16,7 @@ packages:
   - postgres-common
   - postgres-9.6.10
   - postgres-11.9
+  - postgres-12.4
 
 consumes:
 - name: database
